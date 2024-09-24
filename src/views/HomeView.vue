@@ -1,9 +1,6 @@
 <template>
-  <div class="card flex justify-center">
-    <Button label="Submit" />
-  </div>
+  <main>
+    <h1>Главная</h1>
+    <p>Vue 3 - JWT - Pinia</p>
+  </main>
 </template>
-
-<script setup>
-import Button from "primevue/button";
-</script>
